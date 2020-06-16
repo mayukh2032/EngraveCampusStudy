@@ -7,4 +7,4 @@ Complete Solution For Exams Preparation
   mvn clean package
 
 ### STEP 2 : 
-  java -jar target/spring-boot-web-jsp-1.0.war
+  java -jar target/EngraveCampusStudy-1.0.war
